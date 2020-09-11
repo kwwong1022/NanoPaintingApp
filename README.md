@@ -1,2 +1,2 @@
 # NanoPaintingApp
-A painting app created with p5js library.
+A simple painting app created with p5js library.
